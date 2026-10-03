@@ -1,0 +1,12 @@
+{
+  "forgedPrice": 1,
+  "databasePrice": 3999,
+  "savedPrice": 3999,
+  "totalAmount": 7998,
+  "invalidQuantitiesRejected": [
+    0,
+    -1,
+    1.5,
+    "2"
+  ]
+}
